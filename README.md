@@ -1094,8 +1094,7 @@ https://github.com/ymajik/ansible-role-wireshark (Ubuntu)
 https://github.com/wtanaka/ansible-role-wireshark (RedHat)
 
 
-#. Congratulations!
- You have just experienced one of the most interesting and complex projects in you Project Based Learning journey so far. The vast experience and knowledge you have acquired here will set the stage for the next 6 projects to come. 
+ 
 
 
 ![alt text](./images/b2.PNG)
@@ -1136,6 +1135,9 @@ END TO END PIPELINE OVERVIEW
 
 
 
+## Congratulations!
+
+ You have just experienced one of the most interesting and complex projects in you Project Based Learning journey so far. The vast experience and knowledge you have acquired here will set the stage for the next 6 projects to come. 
 
 
 
